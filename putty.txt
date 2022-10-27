@@ -1,0 +1,9 @@
+<!-- putty -->
+sudo su--root 계정
+
+vim ./nginx.conf
+
+--vim 명령어 정리
+i insertMode
+:q quit
+:qw saveAndQuit
