@@ -1,9 +1,10 @@
 <!-- putty -->
 sudo su--root 계정
 
-/var/proxy/staging/nginx
+/etc/nginx
 
-vim ./nginx.conf
+vim /etc/nginx/nginx.conf
+sudo service nginx reload
 
 --vim 명령어 정리
 i insertMode
